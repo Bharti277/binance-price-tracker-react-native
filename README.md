@@ -28,12 +28,6 @@ This app connects to the Binance WebSocket API and shows real-time BTC/USDT pric
   https://github.com/Bharti277/binance-price-tracker-react-native.git
 ```
 
-## Navigate to the folder
-
-```bash
-  cd binance-price-tracker-react-native
-```
-
 1. Install dependencies
 
    ```bash
